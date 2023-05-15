@@ -1,0 +1,29 @@
+{
+  "name": "acordeon-sidebar-menu-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [
+    "v0.2",
+    "v0.3"
+  ],
+  "homepage": "https://codesandbox.io/s/wkx3p9pjk",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-router": "3.0.5",
+    "recompose": "0.27.1",
+    "remeasure": "3.0.1",
+    "semantic-ui-react": "0.76.0",
+    "styled-components": "2.2.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
